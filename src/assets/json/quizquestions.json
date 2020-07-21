@@ -1,0 +1,304 @@
+
+[
+    {
+        "questionId": 0,
+        "questionHeading": "Find your fit.",
+        "questionContent": "There are many options to improve your indoor air quality, and the choices can quickly become  overwhelming . Let us help you find the right fit. We’ll help guide you to find the right product that meets your unique needs.<br/> Get started.",
+        "questionType": "Tenent Type",
+        "questionTemplate": "Map",
+        "questionAnswers": [
+            {
+                "text": "Get Started",
+                "content": "",
+                "action": "advance",
+                "id": 1,
+                "value": "",
+                "icon": ""
+            }
+        ],
+        "selectedAnswers": ""
+    },
+    {
+        "questionId": 1,
+        "questionHeading": "",
+        "questionContent": "There are many factors that can affect your indoor air quality, each with their own effect on your comfort and health. These factors include:",
+        "questionType": "Tenent Type",
+        "questionTemplate": "Select",
+        "questionAnswers": [
+            {
+                "text": "High humidity/moisture",
+                "content": "",
+                "action": "select",
+                "id": 1,
+                "value": "High humidity/moisture",
+                "icon": "moisture"
+            },
+            {
+                "text": "Dust",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "Dust",
+                "icon": "dust"
+            },
+            {
+                "text": "Poor ventilation",
+                "content": "",
+                "action": "select",
+                "id": 3,
+                "value": "Poor ventilation",
+                "icon": "dust"
+            },
+            {
+                "text": "New construction",
+                "content": "",
+                "action": "select",
+                "id": 4,
+                "value": "New construction",
+                "icon": "dust"
+            },
+            {
+                "text": "Pet dander",
+                "content": "",
+                "action": "select",
+                "id": 5,
+                "value": "Pet dander",
+                "icon": "dust"
+            },
+            {
+                "text": "Tobacco smoke",
+                "content": "",
+                "action": "select",
+                "id": 6,
+                "value": "Tobacco smoke",
+                "icon": "dust"
+            },
+            {
+                "text": "Radon",
+                "content": "",
+                "action": "select",
+                "id": 7,
+                "value": "Radon",
+                "icon": "dust"
+            },
+            {
+                "text": "Carbon monoxide",
+                "content": "",
+                "action": "select",
+                "id": 8,
+                "value": "Carbon monoxide",
+                "icon": "dust"
+            },
+            {
+                "text": "Household chemicals and pesticides",
+                "content": "",
+                "action": "select",
+                "id": 9,
+                "value": "Household chemicals and pesticides",
+                "icon": "dust"
+            },
+            {
+                "text": "Outdoor air quality",
+                "content": "",
+                "action": "select",
+                "id": 10,
+                "value": "Outdoor air quality",
+                "icon": "dust"
+            }
+        ],
+        "selectedAnswers": ""
+    },
+    {
+        "questionId": 2,
+        "questionHeading": "",
+        "questionContent": "FAQ check! As you look to improve your indoor air quality, there are many terms you may come across when comparing products. Be sure to familiarize yourself with these key terms to understand how they relate to your health impact:",
+        "questionType": "Tenent Type",
+        "questionTemplate": "KC",
+        "questionAnswers": [
+            {
+                "text": "AQI level",
+                "content": "description goes here",
+                "action": "kc",
+                "id": 1,
+                "value": "AQI level",
+                "icon": "moisture"
+            },
+            {
+                "text": "PM2.5 score ",
+                "content": "description goes here",
+                "action": "kc",
+                "id": 1,
+                "value": "PM2.5 score ",
+                "icon": "moisture"
+            },
+            {
+                "text": "TVOC",
+                "content": "description goes here",
+                "action": "kc",
+                "id": 1,
+                "value": "TVOC",
+                "icon": "moisture"
+            },
+            {
+                "text": "CO2",
+                "content": "description goes here",
+                "action": "kc",
+                "id": 1,
+                "value": "CO2",
+                "icon": "moisture"
+            },
+            {
+                "text": "Humidity",
+                "content": "description goes here",
+                "action": "kc",
+                "id": 1,
+                "value": "Humidity",
+                "icon": "moisture"
+            },
+            {
+                "text": "Temperature",
+                "content": "description goes here",
+                "action": "kc",
+                "id": 1,
+                "value": "Temperature",
+                "icon": "moisture"
+            }
+        ],
+        "selectedAnswers": ""
+    },
+   
+    {
+        "questionId": 4,
+        "questionHeading": "Why are you interested in improving your indoor air quality?",
+        "questionContent": "",
+        "questionType": "Why",
+        "questionTemplate": "Select",
+        "questionAnswers": [
+            {
+                "text": "I have allergies",
+                "content": "",
+                "action": "select",
+                "id": 1,
+                "value": "allergies",
+                "icon": "moisture"
+            },
+            {
+                "text": "I have pet dander",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "dander",
+                "icon": "moisture"
+            },
+            {
+                "text": "I am a smoker or live with a smoker",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "smoker",
+                "icon": "moisture"
+            },
+            {
+                "text": "I am a smoker or live with a smoker",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "smoker",
+                "icon": "moisture"
+            },
+            {
+                "text": "I feel tired all the time",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "tired",
+                "icon": "moisture"
+            },
+            {
+                "text": "It’s humid in my home",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "humid",
+                "icon": "moisture"
+            },
+            {
+                "text": "There are funny smells in my house",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "smells",
+                "icon": "moisture"
+            },
+            {
+                "text": "I’m worried about virus transmission and recirculated air",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "virus",
+                "icon": "moisture"
+            },
+            {
+                "text": "I have children and want to make sure my air is the best it could be for them",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "children",
+                "icon": "moisture"
+            },
+            {
+                "text": "I don’t know exactly, but know it’s not ideal!",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "unsure",
+                "icon": "moisture"
+            },
+            {
+                "text": "I’m just browsing for a friend or family member",
+                "content": "",
+                "action": "select",
+                "id": 2,
+                "value": "unsure",
+                "icon": "moisture"
+            }
+        ],
+        "selectedAnswers": ""
+    },
+    {
+        "questionId": 5,
+        "questionHeading": "FAQ check! Did you know that poor indoor air quality can lead to headaches, trigger your allergies, give you asthma, and even make your body ache?",
+        "questionContent": " ___supplementary information here_____",
+        "questionType": "AIQ",
+        "questionTemplate": "KC",
+        "questionAnswers": [
+            {
+                "text": "Next",
+                "content": "description goes here",
+                "action": "advance",
+                "id": 1,
+                "value": "next",
+                "icon": "moisture"
+            }
+        ],
+        "selectedAnswers": ""
+    },
+    {
+        "questionId": 6,
+        "questionHeading": "Thanks for letting us know why you would like to improve your indoor air quality. Now let’s talk about your home. <br/> FAQ check! Did you know that the construction and age of your home can impact ventilation and chemical offgassing….",
+        "questionContent": "If you’d like, you can enter your address (can get square footage of home, number of rooms, type of construction, etc from CoreLogic API) and pull some home details for you",
+        "questionType": "AIQ",
+        "questionTemplate": "Map",
+        "questionAnswers": [
+            {
+                "text": "Submit",
+                "content": "description goes here",
+                "action": "advance",
+                "id": 1,
+                "value": "next",
+                "icon": "moisture"
+            }
+        ],
+        "selectedAnswers": ""
+    }
+]

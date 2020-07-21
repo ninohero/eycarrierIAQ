@@ -1,0 +1,85 @@
+[
+{
+    "name":"mini",
+    "id":1,
+    "products":[
+        {
+            "name":"Mini", 
+            "url":"https://site.com/product/mini"
+        }
+    ],
+    "url":"https://site.com/product/mini", 
+    "priceRange":399, 
+    "rooms":1, 
+    "roomsize":250, 
+    "solution":"room"
+}, 
+{
+    "name":"mini+",
+    "id":2,
+    "products":[
+        {
+            "name":"Mini Plus", 
+            "url":"https://site.com/product/miniplus"
+        }
+    ],
+    "url":"https://site.com/product/miniplus", 
+    "priceRange":499, 
+    "rooms":2, 
+    "roomsize":250, 
+    "solution":"room"   
+}, 
+{
+    "name":"Air",
+    "id":3,
+    "products":[
+        {
+            "name":"Air", 
+            "url":"https://site.com/product/air"
+        }
+    ],
+    "url":"https://site.com/product/miniplus", 
+    "priceRange":499, 
+    "rooms":2, 
+    "roomsize":600, 
+    "solution":"room"
+}, 
+{
+    "name":"Bundle1",
+    "id":5,
+    "products":[
+        {
+            "name":"Mini Plus", 
+            "url":"https://site.com/product/miniplus"
+        },
+        {
+            "name":"Air", 
+            "url":"https://site.com/product/air"
+        }
+    ],
+    "url":"https://site.com/product/bundleone", 
+    "priceRange":699, 
+    "rooms":5, 
+    "roomsize":800, 
+    "solution":"room"
+}, 
+{
+    "name":"Bundle1",
+    "id":6,
+    "products":[
+        {
+            "name":"Mini", 
+            "url":"https://site.com/product/mini"
+        },
+        {
+            "name":"Air", 
+            "url":"https://site.com/product/air"
+        }
+    ],
+    "url":"https://site.com/product/bundleone", 
+    "priceRange":1599, 
+    "rooms":5, 
+    "roomsize":800, 
+    "solution":"room"
+}
+]   
